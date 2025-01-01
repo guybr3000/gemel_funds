@@ -29,7 +29,7 @@ pandas==2.2.3
 parso==0.8.4
 pillow==11.0.0
 platformdirs==4.3.6
-plotly==5.24.1
+plotly
 #prompt_toolkit==3.0.48
 #psutil==6.1.1
 #pure_eval==0.2.3
